@@ -28,5 +28,3 @@ Analyze dataset and develop a linear regression model for a Bike Sharing Company
 - seaborn - version 0.13.2
 
 
-## Contact
-Created by [@rahulb-97] - feel free to contact me!
